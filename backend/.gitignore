@@ -12,3 +12,5 @@ yarn-error.log*
 # Ignore build files
 dist/
 build/
+
+#random comment
